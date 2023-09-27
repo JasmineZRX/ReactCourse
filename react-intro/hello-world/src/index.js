@@ -6,14 +6,19 @@ function Custom() {
 }
 function HelloWorld() {
   const name = "Jasmine";
-//   return React.createElement(
-//     "div",
-//     null,
-//     React.createElement("h1", null, "This is a hello"),
-//     "Hello ",
-//     React.createElement("strong", null, name),
-//     React.createElement(Custom)
-//   );
+
+  {/* this comment works */}
+  {
+    // works too
+    //   return React.createElement(
+    //     "div",
+    //     null,
+    //     React.createElement("h1", null, "This is a hello"),
+    //     "Hello ",
+    //     React.createElement("strong", null, name),
+    //     React.createElement(Custom)
+    //   );
+  }
 
   return (
     <>
