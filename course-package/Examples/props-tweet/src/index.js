@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import moment from 'moment';
 import './index.css';
+import "font-awesome/css/font-awesome.min.css";
 
 function Tweet({ tweet }) {
   return (
