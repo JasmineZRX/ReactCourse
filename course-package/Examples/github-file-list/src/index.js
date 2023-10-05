@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import PropTypes from 'prop-types';
 import Time from './time';
 import './index.css';
+import "font-awesome/css/font-awesome.min.css";
 
 const FileList = ({ files }) => (
   <table className="file-list">

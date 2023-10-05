@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import PropTypes from 'prop-types';
 import moment from 'moment';
 import './index.css';
-
+import "font-awesome/css/font-awesome.min.css";
 function Tweet({ tweet }) {
   return (
     <div className="tweet">

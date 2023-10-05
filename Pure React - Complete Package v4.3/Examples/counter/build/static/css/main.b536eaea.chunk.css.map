@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,WAAY,CACZ,SAAU,CACV,gCAAkC,CAClC,cACF","file":"main.b536eaea.chunk.css","sourcesContent":["body {\n  margin: 20px;\n  padding: 0;\n  font-family: Helvetica, sans-serif;\n  font-size: 16px;\n}"]}
